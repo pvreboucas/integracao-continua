@@ -14,5 +14,5 @@
 
 * [Aula 5 - Um pouco sobre a entrega contínua](https://github.com/pvreboucas/integracao-continua/tree/aula-05)
 
-[PRÓXIMO CURSO >>](https://github.com/pvreboucas/entrega-continua)
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/entrega-continua-cd)
 
