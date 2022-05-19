@@ -14,4 +14,19 @@ Devido a sua importância, a Integração Contínua é um tópico bastante discu
   * [Integração contínua: deploys e aprovações sem dor de cabeça para o cliente](https://blog.caelum.com.br/integracao-continua-deploys-e-aprovacoes-sem-dores-de-cabeca-para-o-cliente/)
 * Artigo no CodeBetter: [Check in Dance](http://codebetter.com/jeremymiller/2005/07/25/using-continuous-integration-better-do-the-check-in-dance/) 
 
+# O que Aprendemos?
+
+
+
+Nesta aula, aprendemos que:
+
+* Integração Contínua (CI) significa integrar as alterações no mainline (master ou trunk) diariamente
+* Para usar Integração Contínua, é necessário usar um sistema de controle de versão (VCS), e no final integramos o código no repositório (usar Git não é obrigatório)
+* Aplicando Integração Contínua corretamente, diminuímos os problemas de integração (como merge hell), melhoramos a comunicação entre desenvolvedores e antecipamos a descoberta de bugs
+* Os estilos de organização de projeto
+  * Mono-repo possui todos os projetos em um único repositório
+  * Multi-repo separa um repositório para cada projeto
+
+
+
 [PRÓXIMO >>](https://github.com/pvreboucas/integracao-continua-ci/tree/aula-02/aulas)
